@@ -1,1 +1,16 @@
 node_modules/
+/journal
+/diagnostic.data
+*.wt
+WiredTiger.turtle
+mongod.lock
+
+
+
+
+
+
+
+
+
+
