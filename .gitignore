@@ -4,7 +4,8 @@ diagnostic.data/
 *.wt
 *.turtle
 *.lock
-
+*WiredTiger
+*.bson
 
 
 
