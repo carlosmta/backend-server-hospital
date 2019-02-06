@@ -3,6 +3,7 @@ journal/
 diagnostic.data/
 *.wt
 *.turtle
+*.lock
 
 
 
