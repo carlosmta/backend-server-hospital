@@ -1,3 +1,10 @@
+// "C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe" --dbpath="D:\Carlos\Documents\DATABASE_MONGO"  -- APUNTAR A LA BASE DE DATOS
+
+// "C:\Program Files\MongoDB\Server\4.0\bin\mongo.exe"   INICIALIZAR MONGO
+
+// npm start  -- inicializar el proyecto
+
+
 // requires
 var express = require('express');
 var mongoose = require('mongoose');
